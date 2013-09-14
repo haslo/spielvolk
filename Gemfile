@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 # gem 'sqlite3'
 gem 'coffee-rails', '~> 4.0.0'
-# gem 'unicorn'
+gem 'unicorn'
 # gem 'capistrano', group: :development
 
 # rails defaults
